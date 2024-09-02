@@ -10,11 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@tensorflow-models/qna": "^1.0.2",
     "@tensorflow/tfjs": "^4.20.0",
+    "are-we-there-yet": "^4.0.2",
     "body-parser": "^1.20.2",
     "cosine-similarity": "^1.0.1",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
-    "natural": "^8.0.1"
+    "gauge": "^5.0.2",
+    "glob": "^11.0.0",
+    "natural": "^8.0.1",
+    "rimraf": "^6.0.1"
   }
 }
